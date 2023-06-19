@@ -31,8 +31,6 @@ const Header = ({walletAddress, connectWallet}) => {
         <Button id="send-button" class="btn" style={{ backgroundColor: '#FF7F50', color: '#000' }}>
             Send Crypto
         </Button>
-        {/* <button id="send-button" class="btn" style={{ backgroundColor: '#FF7F50', color: '#000' }}>Send ETH</button> */}
-        
       </ButtonsContainer>
     </Wrapper>
   )
